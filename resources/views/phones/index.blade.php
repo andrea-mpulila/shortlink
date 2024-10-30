@@ -854,7 +854,7 @@
                 scrollCollapse: true,
                 paging: false,
                 fixedColumns: {
-                    leftColumns: 3
+                    leftColumns: 1
                 }
             });
         });
